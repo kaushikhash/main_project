@@ -1,0 +1,6 @@
+lib
+.ipynb_checkpoints
+.vscode
+share/
+.idea/*
+/node_modules
